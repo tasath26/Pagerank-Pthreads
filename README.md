@@ -3,4 +3,5 @@ Pagerank algorithm parallelized with pthreads. for CS-342 Parallel programming C
 
 # Usage
 make all
+
 ./pagerank (filename) (no. of threads)
